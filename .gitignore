@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Generated notebook outputs
+*.png
+
+# Generated result CSV files
+results_*.csv
+*_results.csv
+*_comparison.csv
+*_BEST.csv
