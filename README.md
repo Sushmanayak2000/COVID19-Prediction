@@ -156,5 +156,5 @@ Open the notebooks in Jupyter Notebook or VS Code and run them in this order:
 4. UK_14day_lags.ipynb
 The notebooks use the datasets stored in the data/ directory.
 
-Notes
+**Notes**
 The project uses chronological validation and a minimum 14-day feature lag to make the forecasting setup more representative of real-world prediction under reporting delays.
